@@ -1,0 +1,178 @@
+{
+  "categories": {
+    "投資": [
+      {
+        "id": "nisa_usage",
+        "title_template": "新NISA活用術：つみたて投資枠と成長投資枠の賢い使い分け方",
+        "keywords": ["新NISA", "つみたて投資枠", "成長投資枠", "使い分け"],
+        "category": "投資",
+        "tags": ["新NISA", "投資信託", "資産形成", "積立投資"]
+      },
+      {
+        "id": "index_invest",
+        "title_template": "インデックス投資入門：S&P500とオルカンを徹底比較【初心者向け】",
+        "keywords": ["インデックス投資", "S&P500", "オルカン", "全世界株式"],
+        "category": "投資",
+        "tags": ["インデックス投資", "S&P500", "オルカン", "長期投資"]
+      },
+      {
+        "id": "high_dividend",
+        "title_template": "高配当株投資戦略：日本株・米国株で安定配当を受け取る方法",
+        "keywords": ["高配当株", "配当金", "日本株", "米国株"],
+        "category": "投資",
+        "tags": ["高配当株", "配当金", "インカムゲイン", "株式投資"]
+      },
+      {
+        "id": "etf_compare",
+        "title_template": "ETFの選び方完全ガイド：人気ETF比較と失敗しない選定基準",
+        "keywords": ["ETF", "上場投資信託", "比較", "選び方"],
+        "category": "投資",
+        "tags": ["ETF", "投資信託", "分散投資", "コスト"]
+      },
+      {
+        "id": "fund_cost",
+        "title_template": "投資信託のコスト比較：信託報酬0.1%の差が30年後に与える衝撃",
+        "keywords": ["投資信託", "信託報酬", "コスト", "長期投資"],
+        "category": "投資",
+        "tags": ["投資信託", "信託報酬", "コスト削減", "長期投資"]
+      },
+      {
+        "id": "us_vs_jp",
+        "title_template": "米国株 vs 日本株：どちらに投資すべきか徹底分析【2025年版】",
+        "keywords": ["米国株", "日本株", "比較", "投資戦略"],
+        "category": "投資",
+        "tags": ["米国株", "日本株", "比較分析", "株式投資"]
+      },
+      {
+        "id": "gold_invest",
+        "title_template": "金（ゴールド）投資の正しい考え方：ポートフォリオに組み込む理由",
+        "keywords": ["金投資", "ゴールド", "インフレヘッジ", "分散投資"],
+        "category": "投資",
+        "tags": ["金投資", "ゴールド", "インフレ対策", "分散投資"]
+      },
+      {
+        "id": "bond_balance",
+        "title_template": "債券・バランスファンドの活用術：リスクを抑えながら資産を育てる",
+        "keywords": ["債券", "バランスファンド", "リスク管理", "資産配分"],
+        "category": "投資",
+        "tags": ["債券", "バランスファンド", "リスク管理", "アセットアロケーション"]
+      },
+      {
+        "id": "beginner_first",
+        "title_template": "投資初心者が最初の1ヶ月でやるべき5つのステップ",
+        "keywords": ["投資初心者", "始め方", "証券口座", "積立"],
+        "category": "投資",
+        "tags": ["投資初心者", "証券口座", "積立投資", "入門"]
+      },
+      {
+        "id": "market_trend",
+        "title_template": "2025年の投資戦略：最新市場トレンドと個人投資家の対応策",
+        "keywords": ["市場トレンド", "投資戦略", "2025年", "経済"],
+        "category": "投資",
+        "tags": ["市場分析", "投資戦略", "経済動向", "資産運用"]
+      }
+    ],
+    "SIDE FIRE": [
+      {
+        "id": "sidefire_amount",
+        "title_template": "SIDE FIREに必要な資産額はいくら？年齢別シミュレーション完全版",
+        "keywords": ["SIDE FIRE", "必要資産額", "シミュレーション", "計算方法"],
+        "category": "SIDE FIRE",
+        "tags": ["SIDE FIRE", "資産シミュレーション", "FI", "セミリタイア"]
+      },
+      {
+        "id": "sidefire_income",
+        "title_template": "月5万円の副収入でSIDE FIREを実現する具体的な方法",
+        "keywords": ["SIDE FIRE", "副収入", "月5万円", "実現方法"],
+        "category": "SIDE FIRE",
+        "tags": ["SIDE FIRE", "副業", "副収入", "セミリタイア"]
+      },
+      {
+        "id": "expense_optimize",
+        "title_template": "SIDE FIREのための支出最適化：固定費削減で毎月3万円浮かせる方法",
+        "keywords": ["支出最適化", "固定費削減", "節約", "SIDE FIRE"],
+        "category": "SIDE FIRE",
+        "tags": ["支出管理", "固定費", "節約", "FIRE"]
+      },
+      {
+        "id": "fire_plan_30s",
+        "title_template": "30代からのFIRE計画：今から始めれば45歳セミリタイアも夢じゃない",
+        "keywords": ["30代", "FIRE計画", "資産形成", "セミリタイア"],
+        "category": "SIDE FIRE",
+        "tags": ["30代", "FIRE計画", "資産形成", "セミリタイア"]
+      },
+      {
+        "id": "side_business",
+        "title_template": "FIRE達成者が選ぶサイドビジネス5選：ブログ・YouTube・フリーランス比較",
+        "keywords": ["サイドビジネス", "副業", "ブログ", "フリーランス"],
+        "category": "SIDE FIRE",
+        "tags": ["副業", "ブログ", "YouTube", "フリーランス"]
+      },
+      {
+        "id": "four_percent",
+        "title_template": "4%ルールの実践と落とし穴：日本でFIREに使う際の注意点",
+        "keywords": ["4%ルール", "FIRE", "取り崩し", "シミュレーション"],
+        "category": "SIDE FIRE",
+        "tags": ["4%ルール", "資産取り崩し", "FIRE", "長期投資"]
+      },
+      {
+        "id": "fire_after_life",
+        "title_template": "FIRE後の生活設計：社会保険・年金・税金の現実と対策",
+        "keywords": ["FIRE後", "社会保険", "年金", "生活設計"],
+        "category": "SIDE FIRE",
+        "tags": ["FIRE後", "社会保険", "年金", "税金対策"]
+      },
+      {
+        "id": "dividend_life",
+        "title_template": "配当金生活のリアルな計算：月20万円を配当で稼ぐのに必要な資産",
+        "keywords": ["配当金生活", "不労所得", "配当収入", "必要資産"],
+        "category": "SIDE FIRE",
+        "tags": ["配当金", "不労所得", "高配当株", "FIRE"]
+      },
+      {
+        "id": "ideco_kyosai",
+        "title_template": "iDeCoと小規模企業共済の賢い活用法：FIRE前後で最大限節税する",
+        "keywords": ["iDeCo", "小規模企業共済", "節税", "FIRE"],
+        "category": "SIDE FIRE",
+        "tags": ["iDeCo", "小規模企業共済", "節税", "老後資金"]
+      },
+      {
+        "id": "save_vs_earn",
+        "title_template": "節約 vs 収入アップ：FIREを最短で達成するのはどちらか？",
+        "keywords": ["節約", "収入アップ", "FIRE", "最適戦略"],
+        "category": "SIDE FIRE",
+        "tags": ["節約", "収入増加", "FIRE", "資産形成"]
+      }
+    ],
+    "複合": [
+      {
+        "id": "nisa_sidefire_road",
+        "title_template": "新NISAでSIDE FIREを目指す：20年間の具体的ロードマップ",
+        "keywords": ["新NISA", "SIDE FIRE", "ロードマップ", "積立投資"],
+        "category": "資産形成",
+        "tags": ["新NISA", "SIDE FIRE", "長期投資", "資産形成"]
+      },
+      {
+        "id": "salary_man_strategy",
+        "title_template": "30代サラリーマンの資産形成リアル戦略：手取り35万から始める投資術",
+        "keywords": ["サラリーマン", "30代", "資産形成", "投資術"],
+        "category": "資産形成",
+        "tags": ["サラリーマン", "30代", "資産形成", "給与投資"]
+      },
+      {
+        "id": "sidejob_invest",
+        "title_template": "副業収入を投資に回す最適な方法：月5万円の副収入で資産を加速",
+        "keywords": ["副業収入", "投資", "資産加速", "副業"],
+        "category": "資産形成",
+        "tags": ["副業", "投資", "資産形成", "収入増加"]
+      },
+      {
+        "id": "emergency_fund",
+        "title_template": "生活防衛資金の正しい考え方：いくら貯めたら投資に回してOKか",
+        "keywords": ["生活防衛資金", "緊急資金", "投資配分", "リスク管理"],
+        "category": "資産形成",
+        "tags": ["生活防衛資金", "緊急資金", "投資", "リスク管理"]
+      }
+    ]
+  }
+}
