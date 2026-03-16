@@ -9,7 +9,7 @@ import { SettingsPage } from './pages/SettingsPage';
 
 export default function App() {
   return (
-    <BrowserRouter basename="/wp-auto-poster">
+    <BrowserRouter basename="/Write">
       <Toaster
         position="top-right"
         toastOptions={{
