@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - master
   workflow_dispatch:
 
 permissions:
@@ -32,9 +31,20 @@ jobs:
         run: npm run build
         working-directory: wp-auto-poster
 
+      - name: Verify dist output
+        run: |
+          echo "=== dist contents ==="
+          ls -la wp-auto-poster/dist/
+          echo "=== index.html asset paths ==="
+          grep -E "src=|href=" wp-auto-poster/dist/index.html
+
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: wp-auto-poster/dist
+          publish_branch: gh-pages
           force_orphan: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Deploy: ${{ github.sha }}'
